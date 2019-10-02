@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gonczor/powerline-shell.svg?branch=master)](https://travis-ci.org/gonczor/powerline-shell)
+
 # A Powerline style prompt for your shell
 
 A beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh:
